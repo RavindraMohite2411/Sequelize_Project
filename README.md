@@ -1,1 +1,1 @@
-# Sequelize_Project
+# Sequelize_Project with nodejs
